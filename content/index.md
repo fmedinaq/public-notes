@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Sitio de Fernando Medina-Quispe
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Bienvenidos a mi sitio personal
+
+![[111267860.jpeg]]
+
+Mi nombre es Fernando Medina Quispe. Soy Ingeniero Civil en Computación e Informática y Mg. en Gestión Informática. 
